@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @SecretlyAnElephant
+- 👀 I’m interested in computer science, music & chemistry
+- 🌱 I’m currently learning python, c# & music theory
+- 🥕 Carrots are Life
